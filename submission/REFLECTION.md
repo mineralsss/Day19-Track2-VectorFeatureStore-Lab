@@ -41,5 +41,5 @@
 
 ## Bonus challenge
 
-- [ ] Đã làm bonus (xem `bonus/`)
+- [x] Đã làm bonus (xem `bonus/`)
 - [ ] Pair work với: _None_
